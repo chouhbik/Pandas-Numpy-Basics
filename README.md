@@ -7,7 +7,7 @@ Hello and welcome to Pandas-NumPy python introduction with some simple exercices
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/800px-NumPy_logo.svg.png?1571611198913"/>
 
-NumPy is nothing but provides all the libraries to deal with the linear algebra. 
+NumPy is nothing but provides all the libraries to deal with the linear algebra. f
 - NumPy, which stands for Numerical Python
 - NumPy is the foundational package for mathematical computing 
 - Mathematical and logical operations on arrays 
